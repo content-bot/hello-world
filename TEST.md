@@ -1,1 +1,1 @@
-i¦š
+For testing our `GitHub-is-pr-merged` command.
